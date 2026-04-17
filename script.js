@@ -29,6 +29,7 @@ window.addEventListener('scroll', () => {
     }
 });
 
+
 // Smooth Scrolling for Navigation Links
 navLinks.forEach(link => {
     link.addEventListener('click', (e) => {
